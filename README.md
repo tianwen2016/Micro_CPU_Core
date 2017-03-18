@@ -8,7 +8,7 @@ The project includes two main parts: The architecture and the simulator
 
 Micro_baby structure
 ---
-The Micro_baby architecture is written in VHDL, it's been tested and verified on Modelsim. Micro_baby architecture is a very basic computer architecture containing 1 ACC, 1 ALU, 8 bytes data bus, 1 instruction memory of 256 bytes and 1 data memory of 256 bytes. And it can process plus, minus, multiply and divide operations
+The Micro_baby architecture is written in VHDL, it's been tested and verified on Modelsim. It's a very basic computer architecture containing 1 ACC, 1 ALU, 8 bytes data bus, 1 instruction memory of 256 bytes and 1 data memory of 256 bytes. And it can process plus, minus, multiply and divide operations
 
 Micro_baby simulator
 ---
